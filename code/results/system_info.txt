@@ -1,0 +1,11 @@
+﻿CPU: Intel(R) Core(TM) i9-14900HX
+Cores: 24
+Logical processors: 32
+Max clock (MHz): 2200
+Total memory (bytes): 34141495296
+OS: Microsoft Windows 11 家庭中文版
+OS version: 10.0.26200
+Architecture: 64 位
+L1 cache: 2.1MB
+L2 cache: 32.0MB
+L3 cache: 36.0MB

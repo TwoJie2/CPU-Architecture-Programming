@@ -1,0 +1,13 @@
+1. 这份压缩包已经把图片插入代码写好了，默认读取以下两个文件：
+   fig/dot_basic_O2.png
+   fig/sum_basic_O2.png
+
+2. 你如果后续重新作图，只需要保持文件名不变，然后直接覆盖这两个 png 文件即可；
+   不需要再改 main.tex。
+
+3. 如果你想改成别的文件名，需要同时修改 main.tex 中两行：
+   \includegraphics[width=0.92\textwidth]{fig/dot_basic_O2.png}
+   \includegraphics[width=0.92\textwidth]{fig/sum_basic_O2.png}
+
+4. 当前压缩包已经删除了与本次基础报告无关的内容，包括：
+   旧图片、旧 PDF、参考文献、临时 html、minted 缓存、vscode 配置、aux/log/out 等编译中间文件。
