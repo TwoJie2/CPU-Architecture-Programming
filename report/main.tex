@@ -124,7 +124,12 @@ $n$ & naive\_ms & cache\_ms & speedup & repeats\_naive & repeats\_cache \\
 \end{tabularx}
 \end{table}
 
-\placeholderbox{矩阵内积运行时间对比图}{建议后续补充两条折线：naive\_ms 与 cache\_ms 随 $n$ 变化的趋势图。}
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.92\textwidth]{fig/dot_basic_O2.png}
+\caption{不同矩阵规模下平凡算法与 cache 优化算法的运行时间对比}
+\label{fig:dot-basic}
+\end{figure}
 
 \subsection{结果分析}
 从表~\ref{tab:dot-basic} 可以看出，在问题规模较小时，两种算法的时间差距不大；例如 $n=64$ 时，cache 优化版本甚至略慢于平凡算法。这说明当数据规模较小时，矩阵数据仍能较好地驻留在低层缓存中，单纯调整循环顺序所带来的收益尚不明显。
@@ -164,7 +169,12 @@ $n$ & naive\_ms & dual\_ms & speedup & repeats\_naive & repeats\_dual \\
 \end{tabularx}
 \end{table}
 
-\placeholderbox{$n$ 个数求和运行时间或加速比变化图}{建议后续补充两条运行时间曲线，或补充 speedup 随 $n$ 变化的折线图。}
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.92\textwidth]{fig/sum_basic_O2.png}
+\caption{不同数据规模下链式累加与两路链式累加的运行时间对比}
+\label{fig:sum-basic}
+\end{figure}
 
 \subsection{结果分析}
 从表~\ref{tab:sum-basic} 可以看出，两路链式累加算法在大多数规模下都优于平凡算法。较为典型的是 $n=16384$ 时，加速比达到 2.21 倍；在 $n=262144$ 和 $n=1048576$ 时，加速比分别为 1.88 倍和 1.89 倍。说明把单累加器改为双累加器之后，确实能够减少指令之间的串行依赖，提高处理器的并行执行效率。
