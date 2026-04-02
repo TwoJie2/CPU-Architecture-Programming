@@ -1,1 +1,0 @@
-解压后先看 docs/一步步完成实验.md 。若要直接运行实验，请进入 code 目录双击 run_all.bat。若要补进阶要求数据，请再运行 run_flags_compare.bat。报告源文件在 report/main.tex。

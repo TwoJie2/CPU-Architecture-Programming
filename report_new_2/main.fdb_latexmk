@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1775122019.92889 "c:/Users/TwoJie/Desktop/nku/大二下/并行/CPU架构编程/2/lab1_full_bundle/report_new_2/main.tex" "main.pdf" "main" 1775122022.71151 0
+["pdflatex"] 1775130964.54697 "c:/Users/TwoJie/Desktop/nku/大二下/并行/CPU架构编程/2/lab1_full_bundle/report_new_2/main.tex" "main.pdf" "main" 1775130967.77811 0
   "NKU.png" 1775055996 62288 413b996cfb8b2a42040b9797af8b2971 ""
-  "c:/Users/TwoJie/Desktop/nku/大二下/并行/CPU架构编程/2/lab1_full_bundle/report_new_2/main.tex" 1775122019 15961 d7b010962410624332de7b1663f48ea2 ""
+  "c:/Users/TwoJie/Desktop/nku/大二下/并行/CPU架构编程/2/lab1_full_bundle/report_new_2/main.tex" 1775130730 16074 93be1d90a7d0f4e14eb0e10bf792db2d ""
   "c:/Windows/Fonts/msyh.ttc" 1739895113 19704352 1e10e74402e59d54499af795caf0b135 ""
   "c:/Windows/Fonts/simhei.ttf" 1770787470 9745792 5c7fd3058dea9b77be5049ff7efa9f34 ""
   "c:/Windows/Fonts/simkai.ttf" 1770787470 11779732 2eee64ad5f44858f339bcf248bda95d0 ""
@@ -12,6 +12,7 @@
   "c:/texlive/2026/texmf-dist/fonts/sfd/ttf2pk/UGBK.sfd" 1773899261 182544 bcd31d5d273400b38612a969fcab55f9 ""
   "c:/texlive/2026/texmf-dist/fonts/sfd/ttf2pk/Unicode.sfd" 1773899261 103212 c249c63d38b8b55408aee52d643b0c18 ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm" 1773894303 3584 402da0b29eafbad07963b1224b222f18 ""
+  "c:/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/ecrm0700.tfm" 1773894303 3584 cf973739aac7ab6247f9150296af7954 ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/ecrm0800.tfm" 1773894303 3584 49064b465390a8e316a3c8417a050403 ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/ecrm0900.tfm" 1773894303 3584 d3d8ac8b25ca19c0a40b86a5db1e8ccc ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm" 1773894303 3584 adb004a0c8e7c46ee66cad73671f37b4 ""
@@ -186,6 +187,7 @@
   "c:/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisongff.tfm" 1773900018 1172 156175f4eaa9daea4e21b890ac9fafb8 ""
   "c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1773900195 36741 0ee9e374ec3e30da87cdfb0ea3575226 ""
   "c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb" 1773900195 37166 8ab3487cbe3ab49ebce74c29ea2418db ""
+  "c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1773900195 36281 c355509802a035cadc5f15869451dcee ""
   "c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1773900195 35469 dcf3a5f2fc1862f5952e3ee5eb1d98c4 ""
   "c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb" 1773900195 36094 798f80770b3b148ceedd006d487db67c ""
   "c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb" 1773900195 32734 69e00a6b65cedb993666e42eedb3d48f ""
@@ -196,6 +198,7 @@
   "c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb" 1773900195 34694 870c211f62cb72718a00e353f14f254d ""
   "c:/texlive/2026/texmf-dist/fonts/type1/public/bera/fvmr8a.pfb" 1773893107 29228 440002646d60f9d1a0cdf5878b9a308f ""
   "c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb" 1773893642 140176 d0f50dba675c56d445f84a32c1f93a79 ""
+  "c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm0700.pfb" 1773893642 154599 111aa29c1b43dc5b4a8516224bf12bac ""
   "c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb" 1773893642 164227 41439fae96b3b30186924e9dd2fcff30 ""
   "c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb" 1773893642 149037 59d73c34fca02636f548728608edd111 ""
   "c:/texlive/2026/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb" 1773893642 138258 6525c253f16cededa14c7fd0da7f67b2 ""
@@ -412,9 +415,9 @@
   "fig/dot_basic_O2.png" 1775121764 84542 601a66388bb52fd85ed0d8a15a454611 ""
   "fig/sum_advanced_integrated.png" 1775055996 113184 55b9f3ba1142654bea164f7ee94ca2ec ""
   "fig/sum_basic_O2.png" 1775121759 107071 306840bdf05e410715377bc0bc44ee17 ""
-  "main.aux" 1775122021 4576 dedbd748ee943ea15c75719a0e7f7c85 "pdflatex"
-  "main.out" 1775122021 992 180ecaef5dc38661c3cad6879cf2a1f0 "pdflatex"
-  "main.tex" 1775122019 15961 d7b010962410624332de7b1663f48ea2 ""
+  "main.aux" 1775130966 4576 dedbd748ee943ea15c75719a0e7f7c85 "pdflatex"
+  "main.out" 1775130966 992 180ecaef5dc38661c3cad6879cf2a1f0 "pdflatex"
+  "main.tex" 1775130730 16074 93be1d90a7d0f4e14eb0e10bf792db2d ""
   "style/ch_xelatex.tex" 1775055996 1897 014ee6c709fbcd8cef7dd6ad6ad8ec7a ""
   "style/scala.tex" 1775055996 1556 0458cab684054ac5f7251677cbf9e729 ""
   (generated)
