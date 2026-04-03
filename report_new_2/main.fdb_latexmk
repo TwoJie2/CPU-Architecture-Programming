@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1775212685.55504 "c:/Users/TwoJie/Desktop/nku/大二下/并行/CPU架构编程/2/lab1_full_bundle/report_new_2/main.tex" "main.pdf" "main" 1775212688.75277 0
+["pdflatex"] 1775217617.10278 "c:/Users/TwoJie/Desktop/nku/大二下/并行/CPU架构编程/2/lab1_full_bundle/report_new_2/main.tex" "main.pdf" "main" 1775217620.27637 0
   "NKU.png" 1775142396 62288 11a2a70f1c661065d0501c58fd223536 ""
-  "c:/Users/TwoJie/Desktop/nku/大二下/并行/CPU架构编程/2/lab1_full_bundle/report_new_2/main.tex" 1775212681 21924 b8cefb9fe89f8a4ca300dcc501052fa2 ""
+  "c:/Users/TwoJie/Desktop/nku/大二下/并行/CPU架构编程/2/lab1_full_bundle/report_new_2/main.tex" 1775217346 24500 05052427ae88ba98ce1cc37498a2c24b ""
   "c:/Windows/Fonts/msyh.ttc" 1739895113 19704352 1e10e74402e59d54499af795caf0b135 ""
   "c:/Windows/Fonts/simhei.ttf" 1770787470 9745792 5c7fd3058dea9b77be5049ff7efa9f34 ""
   "c:/Windows/Fonts/simkai.ttf" 1770787470 11779732 2eee64ad5f44858f339bcf248bda95d0 ""
@@ -156,6 +156,7 @@
   "c:/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong6c.tfm" 1773900018 1172 da6dd37ba8d24cc1a36aa510c8ac56f9 ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong6d.tfm" 1773900018 1172 3942109a9ca7a08ec5324d8eec4093d9 ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong6e.tfm" 1773900018 1172 42ca517602ab12cb60a5174be463b80a ""
+  "c:/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong70.tfm" 1773900018 1172 65f78ffa41ce8b45f91f362b219db0e7 ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong71.tfm" 1773900018 1172 ac9bcd3bdbf45728188f855f6ba1cf2f ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong72.tfm" 1773900018 1172 3988931ed4f7026bbecd81a5650d7854 ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/zhmetrics/unisong/unisong73.tfm" 1773900018 1172 fd0cb8a34c74e2d27b9d6ceb95f2f96d ""
@@ -428,11 +429,11 @@
   "fig/godbolt_dot_cache_unroll4_O2.png" 1775235874 147708 16c64fd495dd0ce1d6c7e7846d5059f3 ""
   "fig/godbolt_sum_dual_unroll4_O2.png" 1775235874 27862 db49e9a3f511754900f236007d96dd48 ""
   "fig/godbolt_sum_naive_O2.png" 1775235874 16275 3419f0244b3b352e6914d6ae3b899f6c ""
-  "fig/sum_advanced_integrated.png" 1775142396 113184 3803ac35e0e32c49adb60970d48d93ef ""
-  "fig/sum_basic_O2.png" 1775208160 107071 059b078bed21d3f706da5983cdfa45ce ""
-  "main.aux" 1775212687 5779 33bb0e40e91cb155b0b10567285490eb "pdflatex"
-  "main.out" 1775212687 1806 884957e82fdf7d718a6e386470efbb0a "pdflatex"
-  "main.tex" 1775212681 21924 b8cefb9fe89f8a4ca300dcc501052fa2 ""
+  "fig/sum_advanced_integrated.png" 1775217425 83229 a7bba6dcb18a1ac7c8f1c9b8097355fa ""
+  "fig/sum_basic_O2.png" 1775217425 72024 45a495ccbd64c53575922ca34a6cd8c2 ""
+  "main.aux" 1775217619 5927 fa279615b55ddcb19c8226afec8caecd "pdflatex"
+  "main.out" 1775217619 1806 884957e82fdf7d718a6e386470efbb0a "pdflatex"
+  "main.tex" 1775217346 24500 05052427ae88ba98ce1cc37498a2c24b ""
   "style/ch_xelatex.tex" 1775142396 1897 014ee6c709fbcd8cef7dd6ad6ad8ec7a ""
   "style/scala.tex" 1775142396 1556 0458cab684054ac5f7251677cbf9e729 ""
   (generated)
